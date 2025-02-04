@@ -1,7 +1,3 @@
-Next step:
-- convert the process to write to a database (sqlite3?)
-- need someway to confirm that no duplicates get added
-
 Done last session:
 - games.db script made and created
 - players.db script made and created
