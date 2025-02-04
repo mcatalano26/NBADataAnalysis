@@ -1,0 +1,21 @@
+Next step:
+- convert the process to write to a database (sqlite3?)
+- need someway to confirm that no duplicates get added
+
+Done last session:
+- games.db script made and created
+- players.db script made and created
+
+TODO:
+- Create floaters.db with all stats necessary
+- Create kicks.db with all stats necessary
+- confirm that no duplicates get added
+- Modify games_table_update.py so that it actually updates instead of
+        creating from scratch each time
+- Send SMS with updates on Floaters
+- attach links to videos for floaters
+      https://www.nba.com/game/dal-vs-det-0022400680/play-by-play
+      https://www.nba.com/stats/events?CFID=&CFPARAMS=&GameEventID=23&GameID=0022400680&Season=2024-25&flag=1&title=Cunningham%202%27%20Driving%20Reverse%20Layup%20(2%20PTS) 
+
+- games.db script made and created
+- players.db script made and created
